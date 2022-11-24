@@ -1,0 +1,9 @@
+.sidebar-navbar-addEmployee {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-addEmployee {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,57 @@
+.sidebar-container {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 0 30px 30px 0;
+  width: 300px;
+}
+
+.font-title-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px 20px;
+  padding-left: 10px;
+}
+
+.title {
+  margin-left: 10px;
+}
+
+.orange {
+  color: rgba(1, 16, 1, 0.7);
+}
+
+.hrm {
+  color: green;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+}
+
+.major-icon {
+  height: 30px;
+  width: 30px;
+  color: orange;
+}
+
+.active {
+  background-image: linear-gradient(orangered, orange);
+  border-radius: 0 30px 30px 0;
+}
+
+.pim-text,
+.pim-logo {
+  color: white;
+  font-weight: 600;
+}
+
+.searchbutton{
+  background-color: #4caf50; 
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  color: white;
+  padding: 6px 12px;
+  margin-left: 5px;
+}

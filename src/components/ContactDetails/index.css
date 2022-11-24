@@ -1,0 +1,24 @@
+.input-field {
+    width: 250px;
+  }
+  
+  .main-input-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .label-input-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+  }
+  
+  .input-radio-buttons {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .input-field-name {
+    width: 250px;
+    margin-left: 20px;
+  }

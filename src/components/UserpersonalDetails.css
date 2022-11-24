@@ -1,0 +1,14 @@
+.sidebar-navbar-personaldetails {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-personaldetails {
+  display: flex;
+  flex-direction: column;
+}
+
+.UserdetailsSidebar-personaldetails-container {
+  display: flex;
+  flex-direction: row;
+}

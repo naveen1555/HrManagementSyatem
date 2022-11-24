@@ -1,0 +1,54 @@
+.input-field {
+  width: 250px;
+}
+
+.main-input-container {
+  display: flex;
+  flex-direction: row;
+  margin: 40px 5px;
+}
+
+.label-input-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.input-radio-buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.input-field-name {
+  width: 250px;
+  margin-left: 20px;
+}
+
+.save-button {
+  background-color: #4caf50; /* Green */
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  color: white;
+  padding: 12px 28px;
+}
+
+.savebutton-contianer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.text-terminate-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.terminate-button {
+  background-color: rgba(255, 0, 0, 0.4);
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  color: red;
+  margin-left: 20px;
+}
